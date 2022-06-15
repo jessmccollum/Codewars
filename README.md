@@ -1,4 +1,4 @@
-# codewars
+# Codewars
 
 Recording the journey of practicing on Codewars
 
