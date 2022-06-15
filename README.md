@@ -1,5 +1,5 @@
 # codewars
 
-Recording the journey of practicing on Code Wars
+Recording the journey of practicing on Codewars
 
 To check answers look in the console.
