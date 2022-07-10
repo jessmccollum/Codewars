@@ -1,0 +1,9 @@
+function enough(cap, on, wait) {
+    if (cap >= on + wait) {
+      return 0
+    }
+    return Math.abs(cap - (on + wait)) 
+}
+
+console.log (enough(10,5,5))
+console.log (enough(100,60,50))
