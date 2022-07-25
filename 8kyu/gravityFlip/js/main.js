@@ -8,4 +8,4 @@ const flip=(d, a)=>{
 }
 
 console.log(flip('R', [3, 2, 1, 2]))
-console.log(flip('L', [13, 2, 4, 7, 93 ]))
+console.log(flip('L', [13, 2, 4, 7, 93]))
